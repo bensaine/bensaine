@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Ben's github stats](https://bensdev.com/github/stats.html)(https://github.com/bensaine)
+[![Ben's github stats](https://bensdev.com/github/stats.html)](https://github.com/bensaine)
 <!--
 **bensaine/bensaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
