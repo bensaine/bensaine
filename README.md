@@ -8,7 +8,6 @@ I am passionate about computer science and love to acquire knowledge! I currentl
 You can find me on the following social media platforms, send me an email or checkout my website:
 * 👔 [LinkedIn](https://www.linkedin.com/in/benjamin-saine)
 * 🗣 [Twitter](https://twitter.com/bensaine_)
-* 📷 [Instagram](https://www.instagram.com/benthegoof)
 * ✉️ [Email](mailto:bensaine09@gmail.com)
 * 💻 [Website](https://bensaine.com)
 
