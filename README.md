@@ -10,7 +10,7 @@ You can find me on the following social media platforms, send me an email or che
 * 🗣 [Twitter](https://twitter.com/bensaine_)
 * 📷 [Instagram](https://www.instagram.com/benthegoof)
 * ✉️ [Email](mailto:bensaine09@gmail.com)
-* 💻 [bensaine.com](https://bensaine.com)
+* 💻 [Website](https://bensaine.com)
 
 ## Stats 📈
 <div align="center">
