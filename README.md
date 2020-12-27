@@ -5,11 +5,12 @@ I am passionate about computer science and love to acquire knowledge! I currentl
 <br><br>Fun fact! My favorite color is `#0075ff`/`rgb(0, 117, 255)` :large_blue_circle:. 
  
  ## Social 📱
-You can find me on the following social media platforms or send me an email:
+You can find me on the following social media platforms, send me an email or checkout my website:
 * 👔 [LinkedIn](https://www.linkedin.com/in/benjamin-saine)
 * 🗣 [Twitter](https://twitter.com/bensaine_)
 * 📷 [Instagram](https://www.instagram.com/benthegoof)
 * ✉️ [Email](mailto:bensaine09@gmail.com)
+* 💻 [bensaine.com](https://bensaine.com)
 
 ## Stats 📈
 <div align="center">
