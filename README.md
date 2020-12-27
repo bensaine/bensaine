@@ -10,7 +10,7 @@ You can find me on the following social media platforms or send me an email:
 * 👔 [LinkedIn](https://www.linkedin.com/in/benjamin-saine)
 * 🗣 [Twitter](https://twitter.com/bensaine_)
 * 📷 [Instagram](https://www.instagram.com/benthegoof)
-* ✉️ [bensaine09@gmail.com](mailto:bensaine09@gmail.com)
+* ✉️ [Email](mailto:bensaine09@gmail.com)
 <!--
 Here are some ideas to get you started:
 <!--
