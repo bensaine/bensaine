@@ -1,11 +1,11 @@
 # Hey, I'm Ben 👋
 
 ## About 🧑
-I am passionate about computer science and love to acquire knowledge! I currently work as junior software engineer and collaborate on the [AstroVPN project](https://astrovpn.co). 
+I am passionate about computer science and love to acquire knowledge! <br>I currently work as junior software engineer and collaborate on the [AstroVPN project](https://astrovpn.co). 
 <br><br>Fun fact! My favorite color is `#0075ff`/`rgb(0, 117, 255)` :large_blue_circle:. 
  
  ## Social 📱
-You can find me on the following social media platforms, send me an email or checkout my website:
+You can find me on the following social media platforms, send me an email, or checkout my website:
 * 👔 [LinkedIn](https://www.linkedin.com/in/benjamin-saine)
 * 🗣 [Twitter](https://twitter.com/bensaine_)
 * ✉️ [Email](mailto:bensaine09@gmail.com)
