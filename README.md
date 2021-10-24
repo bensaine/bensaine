@@ -1,7 +1,7 @@
 # Hey, I'm Ben 👋
 
 ## About 🧑
-I am passionate about computer science and love to acquire knowledge! <br><br>I currently work as a junior software engineer and collaborate on the [AstroVPN project](https://astrovpn.co). 
+I am passionate about computer science and love learning new things! <br><br>I currently work as a junior software engineer and collaborate on the [AstroVPN project](https://astrovpn.co). 
 <br><br>Fun fact! My favorite color is `#0075ff`/`rgb(0, 117, 255)` :large_blue_circle:. 
  
  ## Social 📱
