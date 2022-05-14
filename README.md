@@ -1,7 +1,7 @@
 # Hello, I'm Ben 👋
 
 ## About
-I am passionate about computer science and love learning new things! <br><br>I currently work as a software developer in Montreal, Canada and collaborate on the [Ryzom project](https://gitlab.com/ryzom). 
+I am passionate about computer science and love learning new things! <br><br>I currently work as a software developer in Montreal, Canada and collaborate on the [Ryzom](https://gitlab.com/ryzom) project. 
  
  ## Links
 You can find me on LinkedIn, send me an email, or checkout my website:
