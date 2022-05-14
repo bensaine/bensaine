@@ -1,10 +1,10 @@
 # Hello, I'm Ben 👋
 
 ## About
-I am passionate about computer science and love learning new things! <br><br>I currently work as a software developer in Montreal, Canada and collaborate on the [AstroVPN project](https://astrovpn.co). 
+I am passionate about computer science and love learning new things! <br><br>I currently work as a software developer in Montreal, Canada and collaborate on the [Ryzom project](https://gitlab.com/ryzom). 
  
  ## Links
-You can find me on the following social media platforms, send me an email, or checkout my website:
+You can find me on LinkedIn, send me an email, or checkout my website:
 * 👔 [LinkedIn](https://www.linkedin.com/in/benjamin-saine)
 * 🗣 [Twitter](https://twitter.com/bensaine_)
 * ✉️ [Email](mailto:bensaine09@gmail.com)
