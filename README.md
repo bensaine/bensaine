@@ -6,7 +6,6 @@ I am passionate about computer science and love learning new things! <br><br>I c
  ## Links
 You can find me on LinkedIn, send me an email, or checkout my website:
 * 👔 [LinkedIn](https://www.linkedin.com/in/benjamin-saine)
-* 🗣 [Twitter](https://twitter.com/bensaine_)
 * ✉️ [Email](mailto:bensaine09@gmail.com)
 * 💻 [Website](https://bensaine.com)
 
