@@ -1,10 +1,10 @@
 # Hello, I'm Ben 👋
 
 ## About
-I am passionate about computer science and love learning new things! <br><br>I currently work as a software developer in Montreal, Canada and collaborate on the [Ryzom](https://gitlab.com/ryzom) project. 
+I have a passion for problem-solving, and I love to learn!<br><br>I am studying Computer Science and working as a software developer in Montreal, Canada. I also collaborate on the [Ryzom](https://gitlab.com/ryzom) project. 
  
  ## Links
-You can find me on LinkedIn, send me an email, or checkout my website:
+You can find me on LinkedIn, send me an email, or visit my website:
 * 👔 [LinkedIn](https://www.linkedin.com/in/benjamin-saine)
 * ✉️ [Email](mailto:bensaine09@gmail.com)
 * 💻 [Website](https://bensaine.com)
