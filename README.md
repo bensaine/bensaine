@@ -5,7 +5,7 @@ I have a passion for problem-solving, and I love to learn!<br><br>I am studying 
  
  ## Links
 You can find me on LinkedIn, send me an email, or visit my website:
-* 👔 [LinkedIn](https://www.linkedin.com/in/benjamin-saine)
+* 👔 [LinkedIn](https://www.linkedin.com/in/ben-saine)
 * ✉️ [Email](mailto:bensaine09@gmail.com)
 * 💻 [Website](https://bensaine.com)
 
