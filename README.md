@@ -11,6 +11,6 @@ You can find me on LinkedIn, send me an email, or visit my website:
 
 ## Stats
 <div align="center">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=bensaine&count_private=true&theme=github_dark&show_icons=true" alt="Ben's github stats" style="max-width:100%;">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=bensaine&count_private=true&theme=github_dark&show_icons=true&hide_rank=true" alt="Ben's github stats" style="max-width:100%;">
 <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensaine&layout=compact&theme=github_dark" alt="Ben's github stats" style="max-width:100%;">
  </div>
